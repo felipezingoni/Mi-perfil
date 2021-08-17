@@ -1,0 +1,14 @@
+
+
+.card {
+	border: 1px solid ;
+	width: 55%;
+	margin: 25px 260px ;
+	padding: 20px;
+	border-radius: 10px;
+	background: #E2E2E2;
+	box-shadow: 2px 2px 3px grey;
+	font-family: 'Anton', sans-serif;
+	color: white;
+}
+
